@@ -8,7 +8,7 @@ Demo stack for Amazon VPC Lattice.
 
 Click the above link to deploy the stack to your environment.
 
-If you prefer, you can also manually upsert the [template.yaml](https://github.com/iann0036/vpc-lattice-demo/blob/master/template.yaml) stack from source.
+If you prefer, you can also manually upsert the [template.yaml](https://github.com/iann0036/vpc-lattice-demo/blob/main/template.yaml) stack from source.
 
 Currently, the only tested region is `us-east-1`.
 
